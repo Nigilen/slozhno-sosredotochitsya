@@ -18,7 +18,7 @@
 @media (prefers-color-scheme: light) {
   :root {
       --bg-color: #FFF1F7;
-      --bg-image: url(/images/cover-image-light.png);  
+      --bg-image: url(/images/cover-image-light.png);
       --text-color: #353430;
       --button-color: #353430;
       --button-border-color: rgba(50, 49, 45, 0.40);
