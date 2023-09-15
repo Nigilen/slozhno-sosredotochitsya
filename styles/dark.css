@@ -1,6 +1,6 @@
 .page.theme_dark {
   --bg-color: #000028;
-  --bg-image: url(/images/cover-image-dark.png);
+  --bg-image: url(../images/cover-image-dark.png);
   --text-color: #F1B2CE;
   --button-color: #FF0070;
   --button-border-color: rgba(255, 0, 112, 0.40);
