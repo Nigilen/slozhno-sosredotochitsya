@@ -45,8 +45,8 @@
 
   :root {
     --page-gap: 20px;
-    --article-gap: 80px;
-    --article-margin-block: 40px;
+    --main-gap: 80px;
+    --main-margin-block: 40px;
   }
 
 }
