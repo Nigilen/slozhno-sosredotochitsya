@@ -150,7 +150,7 @@
 }
 
 .section__link {
-  --shadow-color: #FF8DCB;  
+  --shadow-color: #FF8DCB;
   text-decoration: none;
   text-shadow: 2px 2px 0 var(--shadow-color, #FF8DCB);
 }
