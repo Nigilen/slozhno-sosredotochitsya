@@ -8,12 +8,14 @@
   --accent-color: #FF8DCB;
   --section-title-color: #353430;
   --title-decor: #353430;
-
+  --link-shadow-color: #FF8DCB;
 }
 
 .page.theme_light .header__decor {
   display: none;
 }
+
+
 
 @media (prefers-color-scheme: light) {
   :root {
@@ -26,7 +28,7 @@
       --accent-color: #FF8DCB;
       --section-title-color: #353430;
       --title-decor: #353430;
-
+      --link-shadow-color: #FF8DCB;
     }
   .page.theme_auto .header__decor {
     display: none;

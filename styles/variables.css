@@ -10,14 +10,36 @@
   --section-title-color: #FF0070;
   --title-decor: #000028;
   --shadow-color: #FF0070;
+  --link-shadow-color: #FF0070;
 
   --font-size: 1.125rem;
+  --font-weight: 400;
   --page-line-height: 1.3;
   --page-gap: 10px;
   --section-gap: 20px;
-  --article-gap: 50px;
-  --article-margin-block: 30px;
+  --main-gap: 50px;
+  --main-margin-block: 30px;
+  --decor-size: 25px;
+  --header-decor-size: 9px;
+  --full-height: 100vh;
+  --min-full-height: 668px;
 }
+
+.page.theme_auto {
+  --font: 'IBM Plex mono';
+  --bg-color: #000028;
+  --bg-image: url(../images/cover-image.png);
+  --text-color: #F1B2CE;
+  --button-color: #FF0070;
+  --button-border-color: rgba(255, 0, 112, 0.40);
+  --page-title-color: #DB00FF;
+  --accent-color: #FF0070;
+  --section-title-color: #FF0070;
+  --title-decor: #000028;
+  --shadow-color: #FF0070;
+  --link-shadow-color: #FF0070;
+}
+
 
 @media (width >= 768px) {
 
