@@ -25,22 +25,6 @@
   --min-full-height: 668px;
 }
 
-.page.theme_auto {
-  --font: 'IBM Plex mono';
-  --bg-color: #000028;
-  --bg-image: url(../images/cover-image.png);
-  --text-color: #F1B2CE;
-  --button-color: #FF0070;
-  --button-border-color: rgba(255, 0, 112, 0.40);
-  --page-title-color: #DB00FF;
-  --accent-color: #FF0070;
-  --section-title-color: #FF0070;
-  --title-decor: #000028;
-  --shadow-color: #FF0070;
-  --link-shadow-color: #FF0070;
-}
-
-
 @media (width >= 768px) {
 
   :root {
