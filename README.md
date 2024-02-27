@@ -1,2 +1,5 @@
-Проект "Сложно сосредоточиться"
+# Проектная работа «Сложно сосредоточиться»
+
+Стек: HTML, CSS
+
 https://github.com/Nigilen/slozhno-sosredotochitsya
